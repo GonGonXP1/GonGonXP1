@@ -11,7 +11,9 @@ Desenvolvedor e entusiasta de tecnologia, focado em automações e soluções pr
 🛠️ Tecnologias e Ferramentas
 
 📊 Estatísticas do GitHub
+
 📫 Como me encontrar
+
 💼 LinkedIn: Aceder ao LinkedIn
 
 📧 E-mail: drrossy1309@gmail.com
