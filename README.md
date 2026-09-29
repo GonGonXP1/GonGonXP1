@@ -6,7 +6,7 @@
 - 🚀 Desenvolvo automações em Python para tornar processos mais rápidos e com menos erros
 
 ### 🤖 Projeto em Destaque
-**Central de Automações e-CAC**: aplicação desktop com interface gráfica que automatiza o download e a organização de documentos fiscais no portal e-CAC da Receita Federal.
+**Central de Automações **: aplicação desktop com interface gráfica que automatiza o download e a organização de documentos fiscais no portal e-CAC da Receita Federal.
 - Bots para DCTF, DCTFWeb, PER/DCOMP, PGDAS e DARF
 - Verificador que confere se a documentação de cada cliente está completa
 - Feito com Python, Selenium e Tkinter
