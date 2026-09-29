@@ -1,4 +1,4 @@
-# Olá, Mundo! 👋 Eu sou o Felipe Gonçalves
+# Olá,eu sou o Felipe Gonçalves
 
 ### 💻 Sobre Mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
@@ -10,7 +10,7 @@
 - Bots para captação de docs em sits.
 - Verificador que confere se a documentação de cada cliente está completa
 - Feito com Python, Selenium e Tkinter
-- automatizado de organização de pasta que transforma em -rar
+- automatizador que faz organização de pasta e transforma em -rar
 
 ### 🛠️ Tecnologias
 - **Programação e automação:** Python, Selenium, Tkinter
