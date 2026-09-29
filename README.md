@@ -12,3 +12,5 @@
 ### 📫 Como me encontrar
 - **LinkedIn:** [Aceder ao LinkedIn](https://www.linkedin.com/in/felipe-gonçalves-b6a414298)
 - **E-mail:** drrossy1309@gmail.com
+
+### 🐍 O meu contributo em ação
