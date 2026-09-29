@@ -1,16 +1,19 @@
-## Hi there 👋
+Olá, Mundo! 👋 Eu sou o Felipe Gonçalves
+Desenvolvedor e entusiasta de tecnologia, focado em automações e soluções práticas.
+[
 
-<!--
-**GonGonXP1/GonGonXP1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+](https://github.com/GonGonXP1)
 
-Here are some ideas to get you started:
+💻 Sobre Mim
+🎓 Estudante de Ads.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Focado no desenvolvimento de ferramentas em Python, automações web com Selenium.
+
+💡 Sempre em busca de aprender novas tecnologias e otimizar processos através da programação.
+
+🛠️ Tecnologias e Ferramentas
+📊 Estatísticas do GitHub
+📫 Como me encontrar
+💼 LinkedIn: https://www.linkedin.com/in/felipe-gonçalves-b6a414298?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+📧 E-mail: [drrossy1309@gmail.com]
