@@ -14,6 +14,6 @@ Desenvolvedor e entusiasta de tecnologia, focado em automações e soluções pr
 🛠️ Tecnologias e Ferramentas
 📊 Estatísticas do GitHub
 📫 Como me encontrar
-💼 LinkedIn: Aceder ao LinkedIn
+💼 LinkedIn: [Aceder ao LinkedIn](https://www.linkedin.com/in/felipe-gonçalves-b6a414298?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 📧 E-mail: drrossy1309@gmail.com
