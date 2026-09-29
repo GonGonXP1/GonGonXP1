@@ -13,7 +13,9 @@
 - **LinkedIn:** [Aceder ao LinkedIn](https://www.linkedin.com/in/felipe-gonçalves-b6a414298)
 - **E-mail:** drrossy1309@gmail.com
 
-### A minha atividade no GitHub
-
-![snake animation](https://raw.githubusercontent.com/GonGonXP1/GonGonXP1/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GonGonXP1/GonGonXP1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GonGonXP1/GonGonXP1/output/github-snake.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/GonGonXP1/GonGonXP1/output/github-snake.svg" />
+</picture>
 
