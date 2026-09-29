@@ -7,3 +7,5 @@ Desenvolvedor e entusiasta de tecnologia, focado em automações e soluções pr
 🚀 Focado no desenvolvimento de ferramentas em Python, automações web com Selenium.
 
 💡 Sempre em busca de aprender novas tecnologias e otimizar processos através da programação.
+
+🛠️ Tecnologias e Ferramentas
