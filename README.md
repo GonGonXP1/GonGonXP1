@@ -10,6 +10,7 @@
 - Bots para captação de docs em sits.
 - Verificador que confere se a documentação de cada cliente está completa
 - Feito com Python, Selenium e Tkinter
+- automatizado de organização de pasta que transforma em -rar
 
 ### 🛠️ Tecnologias
 - **Programação e automação:** Python, Selenium, Tkinter
