@@ -1,4 +1,4 @@
-# Olá,eu sou o Felipe Gonçalves
+# Olá, eu sou o Felipe Gonçalves
 
 ### 💻 Sobre Mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
