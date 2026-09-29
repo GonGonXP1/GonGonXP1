@@ -13,5 +13,7 @@
 - **LinkedIn:** [Aceder ao LinkedIn](https://www.linkedin.com/in/felipe-gonçalves-b6a414298)
 - **E-mail:** drrossy1309@gmail.com
 
-### 🐍 O meu contributo em ação
 ### A minha atividade no GitHub
+
+![snake animation](https://raw.githubusercontent.com/GonGonXP1/GonGonXP1/output/github-contribution-grid-snake.svg)
+
